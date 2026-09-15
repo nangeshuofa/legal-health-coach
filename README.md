@@ -135,7 +135,7 @@
 ```
 legal-health-coach/
 ├── README.md                    # 项目说明
-├── SKILL.md                     # 技能定义（v2.5 入口）
+├── SKILL.md                     # 技能定义（v2.6 入口）
 ├── CHANGELOG.md                 # 版本变更记录（v2.0 新增）
 ├── LICENSE                      # 开源协议（GPL-3.0）
 ├── legal-health-coach.skill     # 打包文件（zip）
